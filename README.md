@@ -19,5 +19,5 @@ samples, guidance on mobile development, and a full API reference.
 
 #### Reference
 
-[https://www.youtube.com/c/TadasPetra]
+[https://www.youtube.com/c/TadasPetra] <br />
 [https://www.youtube.com/watch?v=Nmla96RFlh4]
